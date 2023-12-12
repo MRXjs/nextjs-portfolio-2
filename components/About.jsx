@@ -213,7 +213,7 @@ const About = () => {
                               return (
                                 <div key={index} className="flex gap-x-8 group">
                                   <div className="h-[84px] w-[1px] bg-border relative ml-2">
-                                    <div className="w-[11px] h-[11px] rounded-full bg-primary absolute -left-[5px] group-hover:translate-y-[84px] transition-all duration-[500]"></div>
+                                    <div className="w-[11px] h-[11px] rounded-full bg-primary absolute -left-[5px] group-hover:translate-y-[84px] transition-all duration-500"></div>
                                   </div>
                                   <div>
                                     <div className="mb-2 text-xl font-semibold leading-none ">
@@ -248,7 +248,7 @@ const About = () => {
                               return (
                                 <div key={index} className="flex gap-x-8 group">
                                   <div className="h-[84px] w-[1px] bg-border relative ml-2">
-                                    <div className="w-[11px] h-[11px] rounded-full bg-primary absolute -left-[5px] group-hover:translate-y-[84px] transition-all duration-[500]"></div>
+                                    <div className="w-[11px] h-[11px] rounded-full bg-primary absolute -left-[5px] group-hover:translate-y-[84px] transition-all duration-500"></div>
                                   </div>
                                   <div>
                                     <div className="mb-2 text-xl font-semibold leading-none ">
